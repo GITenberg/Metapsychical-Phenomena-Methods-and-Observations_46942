@@ -1,9 +1,13 @@
 _repo: Metapsychical-Phenomena-Methods-and-Observations_46942
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Finch, L. I.
     gutenberg_agent_id: '44049'
     url: http://www.gutenberg.org/2009/agents/44049
+covers:
+- cover_type: archival
+  image_path: 46942-h/images/cover.jpg
 creator:
   author:
     agent_name: Maxwell, Joseph
@@ -12,6 +16,8 @@ creator:
     gutenberg_agent_id: '44057'
     url: http://www.gutenberg.org/2009/agents/44057
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46942#Metapsychical-Phenomena-Methods-and-Observations
 gutenberg_issued: '2014-09-23'
 gutenberg_type: Text
 identifiers:
